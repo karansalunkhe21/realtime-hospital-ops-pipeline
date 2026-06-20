@@ -1,0 +1,19 @@
+# ============================================================
+# REAL-TIME HOSPITAL OPERATIONS PIPELINE
+# Install with: pip install -r requirements.txt
+# ============================================================
+
+# Databricks SDK (connect to Databricks from your local machine)
+databricks-sdk==0.20.0
+
+# Kafka client (unchanged from original)
+confluent-kafka==2.3.0
+
+# Airflow + Databricks provider
+apache-airflow==2.8.0
+apache-airflow-providers-databricks==6.0.0
+
+# Data helpers
+faker==22.0.0
+python-dotenv==1.0.0
+pandas==2.1.4
