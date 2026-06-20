@@ -1,0 +1,802 @@
+[
+  {
+    "event_id": "e06c8de2-5d6a-45ce-b7b4-6372000c73ea",
+    "patient_id": "PT21701",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321453"
+  },
+  {
+    "event_id": "176168f1-a6f5-4684-957b-39d13c17e98a",
+    "patient_id": "PT76977",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321459"
+  },
+  {
+    "event_id": "7450fe1a-6269-45cc-b4fe-98824d08b30f",
+    "patient_id": "PT77292",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321465"
+  },
+  {
+    "event_id": "ccac7c87-1c0c-4582-a418-b98078cd72db",
+    "patient_id": "PT80659",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321470"
+  },
+  {
+    "event_id": "20076d4e-5a5e-43f7-9039-da64dcac40ee",
+    "patient_id": "PT68221",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321475"
+  },
+  {
+    "event_id": "62624567-3e3e-4fec-9117-d7cdc17b7fd6",
+    "patient_id": "PT12881",
+    "diagnosis_code": "A41.9",
+    "diagnosis_desc": "Sepsis, unspecified organism",
+    "icd10_category": "A41",
+    "recorded_at": "2026-06-20T13:36:47.321480"
+  },
+  {
+    "event_id": "65bf62ff-a6f0-40a4-8087-d80fe2365a5a",
+    "patient_id": "PT83592",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321486"
+  },
+  {
+    "event_id": "691bed50-57c0-4377-9b47-1c4535dea5af",
+    "patient_id": "PT45869",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321491"
+  },
+  {
+    "event_id": "1afa2e77-bc38-429d-a0ab-48419ffab120",
+    "patient_id": "PT35277",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321496"
+  },
+  {
+    "event_id": "a5d4f1f6-7050-4001-8eae-6e51dc04ea0b",
+    "patient_id": "PT26038",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321501"
+  },
+  {
+    "event_id": "d05f6938-7015-47c8-8413-17764edafa29",
+    "patient_id": "PT82867",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321506"
+  },
+  {
+    "event_id": "f80a32b8-3035-4d52-9b2d-a93529fd8013",
+    "patient_id": "PT21141",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321511"
+  },
+  {
+    "event_id": "9f66b57a-3a86-46b2-b9bc-4061dcb7265f",
+    "patient_id": "PT65115",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321516"
+  },
+  {
+    "event_id": "0188871f-76b3-4eed-94d9-0604b51f31d6",
+    "patient_id": "PT21241",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321521"
+  },
+  {
+    "event_id": "a526d884-9754-441e-8e06-fc4e00534060",
+    "patient_id": "PT66508",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321527"
+  },
+  {
+    "event_id": "d5e47449-dee2-4847-b6aa-12c9cab930c8",
+    "patient_id": "PT15499",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321532"
+  },
+  {
+    "event_id": "182e018f-5792-46ab-8771-c28bab2046eb",
+    "patient_id": "PT84016",
+    "diagnosis_code": "A41.9",
+    "diagnosis_desc": "Sepsis, unspecified organism",
+    "icd10_category": "A41",
+    "recorded_at": "2026-06-20T13:36:47.321537"
+  },
+  {
+    "event_id": "f3dc8a41-a262-48a2-b0b1-ed59216a8964",
+    "patient_id": "PT86004",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321542"
+  },
+  {
+    "event_id": "86946845-a316-4a40-abae-658979cfc04e",
+    "patient_id": "PT42909",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321547"
+  },
+  {
+    "event_id": "b3379132-9abb-4f65-962a-9176d5c281bb",
+    "patient_id": "PT53159",
+    "diagnosis_code": "I21.0",
+    "diagnosis_desc": "Acute anterior myocardial infarction",
+    "icd10_category": "I21",
+    "recorded_at": "2026-06-20T13:36:47.321552"
+  },
+  {
+    "event_id": "ca8dbc1b-d97a-4069-a103-7a5dd61fa2b9",
+    "patient_id": "PT47209",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321557"
+  },
+  {
+    "event_id": "9792c120-135b-40ca-bbdd-e6ed2c6c209f",
+    "patient_id": "PT36058",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321562"
+  },
+  {
+    "event_id": "7f2f28fc-1eea-4186-9644-f18779020cdf",
+    "patient_id": "PT96064",
+    "diagnosis_code": "A41.9",
+    "diagnosis_desc": "Sepsis, unspecified organism",
+    "icd10_category": "A41",
+    "recorded_at": "2026-06-20T13:36:47.321567"
+  },
+  {
+    "event_id": "1934867b-2c96-4d1b-b5a9-42593537e54c",
+    "patient_id": "PT74610",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321572"
+  },
+  {
+    "event_id": "ac6d9544-08c0-4b69-889f-dd7e85836798",
+    "patient_id": "PT64684",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321577"
+  },
+  {
+    "event_id": "e3fb26bd-dcaf-47eb-8ec8-621ac83823af",
+    "patient_id": "PT18087",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321582"
+  },
+  {
+    "event_id": "05d06d6a-4d8c-483e-bdcf-cce3be62eb94",
+    "patient_id": "PT77418",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321587"
+  },
+  {
+    "event_id": "c517b7cf-28f6-4937-84b2-27cf72747f29",
+    "patient_id": "PT10015",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321592"
+  },
+  {
+    "event_id": "5984395b-26ca-4bc2-a6e8-87ebb4dcc964",
+    "patient_id": "PT10028",
+    "diagnosis_code": "A41.9",
+    "diagnosis_desc": "Sepsis, unspecified organism",
+    "icd10_category": "A41",
+    "recorded_at": "2026-06-20T13:36:47.321597"
+  },
+  {
+    "event_id": "4b3c9935-f6a2-49a8-b0b8-acf0690f20e7",
+    "patient_id": "PT65200",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321602"
+  },
+  {
+    "event_id": "b1d3d472-20e9-4a78-9002-b043e30906ac",
+    "patient_id": "PT62754",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321607"
+  },
+  {
+    "event_id": "29ce946f-7c94-4bb9-ab3a-30ba4ec41e97",
+    "patient_id": "PT38960",
+    "diagnosis_code": "A41.9",
+    "diagnosis_desc": "Sepsis, unspecified organism",
+    "icd10_category": "A41",
+    "recorded_at": "2026-06-20T13:36:47.321613"
+  },
+  {
+    "event_id": "bdff1aa8-dd7b-4197-81ec-439a90ac92c2",
+    "patient_id": "PT76382",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321618"
+  },
+  {
+    "event_id": "a5e74e14-4f75-4292-90f6-ca27dca80b81",
+    "patient_id": "PT44754",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321623"
+  },
+  {
+    "event_id": "bb118a9b-7cba-430b-951e-a39f4d2169c3",
+    "patient_id": "PT84640",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321628"
+  },
+  {
+    "event_id": "3226103a-57f0-4f19-8779-c70accee6d30",
+    "patient_id": "PT92799",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321633"
+  },
+  {
+    "event_id": "8c4c8122-5005-4e77-85c2-acfb4dfaf610",
+    "patient_id": "PT67676",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321638"
+  },
+  {
+    "event_id": "ec53afb2-9a7c-4c0a-99bc-9ef22e1daf94",
+    "patient_id": "PT19773",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321643"
+  },
+  {
+    "event_id": "953caa34-f3a2-4310-a0cc-9a4bb3ec2e93",
+    "patient_id": "PT22068",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321648"
+  },
+  {
+    "event_id": "cdd1fb15-59a4-4b3b-90e3-4bb9372ba287",
+    "patient_id": "PT15403",
+    "diagnosis_code": "I21.0",
+    "diagnosis_desc": "Acute anterior myocardial infarction",
+    "icd10_category": "I21",
+    "recorded_at": "2026-06-20T13:36:47.321653"
+  },
+  {
+    "event_id": "79dd7f0f-f273-4c9f-be9d-5f0b3dd41c69",
+    "patient_id": "PT64085",
+    "diagnosis_code": "A41.9",
+    "diagnosis_desc": "Sepsis, unspecified organism",
+    "icd10_category": "A41",
+    "recorded_at": "2026-06-20T13:36:47.321658"
+  },
+  {
+    "event_id": "06f71d75-5c5c-4e77-8ebd-8dcf21689da0",
+    "patient_id": "PT15763",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321663"
+  },
+  {
+    "event_id": "df805ca0-d3ec-4cc9-a13c-4d2318c35f8d",
+    "patient_id": "PT51508",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321668"
+  },
+  {
+    "event_id": "23877cc3-b5cd-4ca6-82c9-b030728bf760",
+    "patient_id": "PT40172",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321673"
+  },
+  {
+    "event_id": "70e14296-803e-4db3-bec5-76f97ae18d18",
+    "patient_id": "PT18884",
+    "diagnosis_code": "I21.0",
+    "diagnosis_desc": "Acute anterior myocardial infarction",
+    "icd10_category": "I21",
+    "recorded_at": "2026-06-20T13:36:47.321678"
+  },
+  {
+    "event_id": "995df49f-4df3-4255-af4f-8ac44ffa8459",
+    "patient_id": "PT85763",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321683"
+  },
+  {
+    "event_id": "80a9f19b-508a-4dc3-994a-f6de72444e3d",
+    "patient_id": "PT70490",
+    "diagnosis_code": "I21.0",
+    "diagnosis_desc": "Acute anterior myocardial infarction",
+    "icd10_category": "I21",
+    "recorded_at": "2026-06-20T13:36:47.321688"
+  },
+  {
+    "event_id": "be93556a-f59d-4b63-a6df-6f3cc0c63f08",
+    "patient_id": "PT98367",
+    "diagnosis_code": "I21.0",
+    "diagnosis_desc": "Acute anterior myocardial infarction",
+    "icd10_category": "I21",
+    "recorded_at": "2026-06-20T13:36:47.321693"
+  },
+  {
+    "event_id": "81d3d9ed-1480-484e-9577-493b88c94207",
+    "patient_id": "PT24138",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321698"
+  },
+  {
+    "event_id": "04e26adb-e7c5-4558-a9d2-4000b81fb953",
+    "patient_id": "PT89454",
+    "diagnosis_code": "I21.0",
+    "diagnosis_desc": "Acute anterior myocardial infarction",
+    "icd10_category": "I21",
+    "recorded_at": "2026-06-20T13:36:47.321703"
+  },
+  {
+    "event_id": "f7e7e230-b6da-4609-bde2-6fef063d705f",
+    "patient_id": "PT95184",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321709"
+  },
+  {
+    "event_id": "82053ff9-d4fa-424f-ae0b-e7f81246f658",
+    "patient_id": "PT36550",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321713"
+  },
+  {
+    "event_id": "9d42edce-7487-4773-9250-b6bd0745b2b0",
+    "patient_id": "PT34438",
+    "diagnosis_code": "I21.0",
+    "diagnosis_desc": "Acute anterior myocardial infarction",
+    "icd10_category": "I21",
+    "recorded_at": "2026-06-20T13:36:47.321718"
+  },
+  {
+    "event_id": "842bb933-2a88-4a44-9127-9a312c63023f",
+    "patient_id": "PT81708",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321725"
+  },
+  {
+    "event_id": "aa24265f-a543-4fa0-9123-5f175c9c081e",
+    "patient_id": "PT53555",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321730"
+  },
+  {
+    "event_id": "d5a0e11c-ebdd-4c32-8b1c-873c22ee7cae",
+    "patient_id": "PT36712",
+    "diagnosis_code": "I21.0",
+    "diagnosis_desc": "Acute anterior myocardial infarction",
+    "icd10_category": "I21",
+    "recorded_at": "2026-06-20T13:36:47.321735"
+  },
+  {
+    "event_id": "7b4d68d6-2684-46ba-8742-c5172a172859",
+    "patient_id": "PT34946",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321740"
+  },
+  {
+    "event_id": "3b3493ef-bb8f-4cd3-abb2-9b3df229768a",
+    "patient_id": "PT15769",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321745"
+  },
+  {
+    "event_id": "ab8a1e91-92a5-41e1-96b3-0d54f92f3bbd",
+    "patient_id": "PT10857",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321750"
+  },
+  {
+    "event_id": "2d96f52e-0eac-48d8-8837-d75e73a93513",
+    "patient_id": "PT86513",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321755"
+  },
+  {
+    "event_id": "ced9b4ef-f2ec-4eca-a5a9-fee1fdea8b18",
+    "patient_id": "PT28210",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321761"
+  },
+  {
+    "event_id": "edc4cb99-6921-4e21-ad40-7193ad993da7",
+    "patient_id": "PT90747",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321765"
+  },
+  {
+    "event_id": "faaf1b05-e8a5-4853-9ced-752e1918232c",
+    "patient_id": "PT66376",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321770"
+  },
+  {
+    "event_id": "d0e9c769-cd5f-48e8-b05d-a965818d6efb",
+    "patient_id": "PT44937",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321775"
+  },
+  {
+    "event_id": "09364797-860d-4ade-ade1-c59e3798ff24",
+    "patient_id": "PT98438",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321781"
+  },
+  {
+    "event_id": "9760e1da-d231-44da-a66d-9380cf92e989",
+    "patient_id": "PT23688",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321786"
+  },
+  {
+    "event_id": "c3c1c6ca-0ca9-4e62-a26f-08d558e4544e",
+    "patient_id": "PT12868",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321791"
+  },
+  {
+    "event_id": "f06f2f44-3596-4bbf-8083-2305e55dbd42",
+    "patient_id": "PT10825",
+    "diagnosis_code": "I21.0",
+    "diagnosis_desc": "Acute anterior myocardial infarction",
+    "icd10_category": "I21",
+    "recorded_at": "2026-06-20T13:36:47.321796"
+  },
+  {
+    "event_id": "0305e2e6-9a52-4eb3-ad2d-55796b91217b",
+    "patient_id": "PT39781",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321801"
+  },
+  {
+    "event_id": "bb9230d2-7c78-4245-9089-d2c6331012c7",
+    "patient_id": "PT43393",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321806"
+  },
+  {
+    "event_id": "a7d53fd4-b30d-4845-8e4a-ec401273a2d9",
+    "patient_id": "PT76989",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321811"
+  },
+  {
+    "event_id": "edc9634e-6cb8-4b36-bed1-71f5d152117f",
+    "patient_id": "PT90067",
+    "diagnosis_code": "A41.9",
+    "diagnosis_desc": "Sepsis, unspecified organism",
+    "icd10_category": "A41",
+    "recorded_at": "2026-06-20T13:36:47.321816"
+  },
+  {
+    "event_id": "06a163cc-a00c-48fb-879f-582d27399cd8",
+    "patient_id": "PT75964",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321821"
+  },
+  {
+    "event_id": "2b6afacf-98b0-44a7-89f3-1fbacc019556",
+    "patient_id": "PT16523",
+    "diagnosis_code": "A41.9",
+    "diagnosis_desc": "Sepsis, unspecified organism",
+    "icd10_category": "A41",
+    "recorded_at": "2026-06-20T13:36:47.321826"
+  },
+  {
+    "event_id": "1c4e73c2-b837-4d55-8943-f2d71f177873",
+    "patient_id": "PT94536",
+    "diagnosis_code": "A41.9",
+    "diagnosis_desc": "Sepsis, unspecified organism",
+    "icd10_category": "A41",
+    "recorded_at": "2026-06-20T13:36:47.321831"
+  },
+  {
+    "event_id": "371eab7b-d5d8-42e1-93e6-85d61b075ac8",
+    "patient_id": "PT20253",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321836"
+  },
+  {
+    "event_id": "44e09f4c-6e62-4535-86a9-2f1174254779",
+    "patient_id": "PT10610",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321842"
+  },
+  {
+    "event_id": "061eab87-40fa-41d0-bba9-d2f14606b438",
+    "patient_id": "PT49926",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321847"
+  },
+  {
+    "event_id": "f304f8fe-9629-42f7-b7ea-5e019133bd4e",
+    "patient_id": "PT89761",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321852"
+  },
+  {
+    "event_id": "c1c7f2ec-73fe-40d7-9554-fdd036e8e5ea",
+    "patient_id": "PT44120",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321858"
+  },
+  {
+    "event_id": "90dd3d57-1450-4b00-a8ea-8500e9df022d",
+    "patient_id": "PT40773",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321863"
+  },
+  {
+    "event_id": "aaa65446-ea33-4aa7-9e77-dbca514e5275",
+    "patient_id": "PT43009",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321867"
+  },
+  {
+    "event_id": "6081dac7-bb8b-414d-8bda-951da4043890",
+    "patient_id": "PT44498",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321872"
+  },
+  {
+    "event_id": "2fda1719-c44e-457e-aa91-21f29cd917a5",
+    "patient_id": "PT95654",
+    "diagnosis_code": "A41.9",
+    "diagnosis_desc": "Sepsis, unspecified organism",
+    "icd10_category": "A41",
+    "recorded_at": "2026-06-20T13:36:47.321876"
+  },
+  {
+    "event_id": "82b02aeb-5163-4ea6-915a-b34cdc1cff97",
+    "patient_id": "PT33252",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321881"
+  },
+  {
+    "event_id": "c9e48238-80c5-4362-8cbf-fb008182bc30",
+    "patient_id": "PT26148",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321886"
+  },
+  {
+    "event_id": "05f0568a-fb44-403a-81b9-e47bccfba90a",
+    "patient_id": "PT19218",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321891"
+  },
+  {
+    "event_id": "aa22b471-77a8-47f3-bcdd-9e76f24ac703",
+    "patient_id": "PT18399",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321896"
+  },
+  {
+    "event_id": "1308f1e4-376f-4571-8370-ca192396d2c3",
+    "patient_id": "PT35565",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321900"
+  },
+  {
+    "event_id": "0773980e-96f2-4128-bc51-7cc38c34d74d",
+    "patient_id": "PT44896",
+    "diagnosis_code": "I50.9",
+    "diagnosis_desc": "Heart failure, unspecified",
+    "icd10_category": "I50",
+    "recorded_at": "2026-06-20T13:36:47.321905"
+  },
+  {
+    "event_id": "34e5a996-7a80-428e-a39a-638d8ed905da",
+    "patient_id": "PT30023",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321909"
+  },
+  {
+    "event_id": "e897233e-1ca7-4eaa-a440-1cba1328b002",
+    "patient_id": "PT86563",
+    "diagnosis_code": "J18.9",
+    "diagnosis_desc": "Pneumonia, unspecified organism",
+    "icd10_category": "J18",
+    "recorded_at": "2026-06-20T13:36:47.321914"
+  },
+  {
+    "event_id": "d934dac6-0aa5-4c9d-a6f6-2a40f3b23deb",
+    "patient_id": "PT93549",
+    "diagnosis_code": "I21.0",
+    "diagnosis_desc": "Acute anterior myocardial infarction",
+    "icd10_category": "I21",
+    "recorded_at": "2026-06-20T13:36:47.321919"
+  },
+  {
+    "event_id": "bf5ea07f-1801-4b93-b585-fff675e09ac8",
+    "patient_id": "PT69255",
+    "diagnosis_code": "N18.3",
+    "diagnosis_desc": "Chronic kidney disease, stage 3",
+    "icd10_category": "N18",
+    "recorded_at": "2026-06-20T13:36:47.321925"
+  },
+  {
+    "event_id": "1aee73b2-9e3a-4d0c-953f-ec8a1b7ab3cd",
+    "patient_id": "PT46269",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321930"
+  },
+  {
+    "event_id": "34dc97fb-2917-4e5b-838c-aac016f43a0b",
+    "patient_id": "PT79011",
+    "diagnosis_code": "J44.1",
+    "diagnosis_desc": "COPD with acute exacerbation",
+    "icd10_category": "J44",
+    "recorded_at": "2026-06-20T13:36:47.321935"
+  },
+  {
+    "event_id": "be0ffd89-5fd7-488f-a53e-9f1e7e64b121",
+    "patient_id": "PT24195",
+    "diagnosis_code": "S72.0",
+    "diagnosis_desc": "Fracture of femoral neck",
+    "icd10_category": "S72",
+    "recorded_at": "2026-06-20T13:36:47.321939"
+  },
+  {
+    "event_id": "41cd1cdb-3d36-4624-b08e-8bf7ddb0261e",
+    "patient_id": "PT13061",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321944"
+  },
+  {
+    "event_id": "5c0a99a2-1498-4512-8621-16b2d8c46bcc",
+    "patient_id": "PT41626",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321948"
+  },
+  {
+    "event_id": "607fdeaf-105c-4164-8533-95ae76df531f",
+    "patient_id": "PT57024",
+    "diagnosis_code": "E11.9",
+    "diagnosis_desc": "Type 2 diabetes mellitus without complications",
+    "icd10_category": "E11",
+    "recorded_at": "2026-06-20T13:36:47.321953"
+  }
+]

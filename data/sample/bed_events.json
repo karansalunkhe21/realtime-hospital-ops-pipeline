@@ -1,0 +1,802 @@
+[
+  {
+    "event_id": "2527866b-5f1b-45d2-8d46-3933c0e2f614",
+    "bed_id": "BED385",
+    "ward": "Pediatrics",
+    "status": "CLEANING",
+    "patient_id": "PT27941",
+    "event_timestamp": "2026-06-20T13:36:47.320256"
+  },
+  {
+    "event_id": "609368d1-c991-4dd9-9140-05d78d2d535f",
+    "bed_id": "BED261",
+    "ward": "Surgery",
+    "status": "AVAILABLE",
+    "patient_id": "PT28797",
+    "event_timestamp": "2026-06-20T13:36:47.320263"
+  },
+  {
+    "event_id": "f37e08c0-bf16-4395-92f5-1a1ef236049e",
+    "bed_id": "BED153",
+    "ward": "ICU",
+    "status": "CLEANING",
+    "patient_id": "PT64837",
+    "event_timestamp": "2026-06-20T13:36:47.320270"
+  },
+  {
+    "event_id": "1813854b-7093-4564-b253-1a3c51db0dd2",
+    "bed_id": "BED145",
+    "ward": "ICU",
+    "status": "OCCUPIED",
+    "patient_id": "PT85155",
+    "event_timestamp": "2026-06-20T13:36:47.320276"
+  },
+  {
+    "event_id": "7a85878f-217a-4509-aec1-228dbd979b03",
+    "bed_id": "BED128",
+    "ward": "Emergency",
+    "status": "CLEANING",
+    "patient_id": "PT17284",
+    "event_timestamp": "2026-06-20T13:36:47.320282"
+  },
+  {
+    "event_id": "a573064c-3f34-4f9b-a782-f555886865e6",
+    "bed_id": "BED427",
+    "ward": "Emergency",
+    "status": "OCCUPIED",
+    "patient_id": "PT65241",
+    "event_timestamp": "2026-06-20T13:36:47.320288"
+  },
+  {
+    "event_id": "0b974fb6-1044-4ccd-a3ea-32ce62aae408",
+    "bed_id": "BED196",
+    "ward": "Surgery",
+    "status": "CLEANING",
+    "patient_id": "PT53812",
+    "event_timestamp": "2026-06-20T13:36:47.320294"
+  },
+  {
+    "event_id": "142676aa-1963-45cc-af80-7e1b1c4b026d",
+    "bed_id": "BED409",
+    "ward": "Pediatrics",
+    "status": "OCCUPIED",
+    "patient_id": "PT68263",
+    "event_timestamp": "2026-06-20T13:36:47.320299"
+  },
+  {
+    "event_id": "8bb30120-c90a-4c6e-aa56-2ad006f913de",
+    "bed_id": "BED209",
+    "ward": "Emergency",
+    "status": "AVAILABLE",
+    "patient_id": "PT72359",
+    "event_timestamp": "2026-06-20T13:36:47.320305"
+  },
+  {
+    "event_id": "6e7ad28d-d6e5-4f14-a8e3-d270197887ba",
+    "bed_id": "BED422",
+    "ward": "Pediatrics",
+    "status": "AVAILABLE",
+    "patient_id": "PT48251",
+    "event_timestamp": "2026-06-20T13:36:47.320311"
+  },
+  {
+    "event_id": "9b36bec8-7b22-4518-a690-0acd872ffe84",
+    "bed_id": "BED174",
+    "ward": "Cardiology",
+    "status": "CLEANING",
+    "patient_id": "PT80581",
+    "event_timestamp": "2026-06-20T13:36:47.320317"
+  },
+  {
+    "event_id": "e0f06196-76b7-4258-9d4a-2643da0deb89",
+    "bed_id": "BED410",
+    "ward": "Emergency",
+    "status": "CLEANING",
+    "patient_id": "PT41156",
+    "event_timestamp": "2026-06-20T13:36:47.320323"
+  },
+  {
+    "event_id": "6a05d6c9-521b-47d2-bd19-feb7464f9100",
+    "bed_id": "BED165",
+    "ward": "Emergency",
+    "status": "OCCUPIED",
+    "patient_id": "PT76089",
+    "event_timestamp": "2026-06-20T13:36:47.320329"
+  },
+  {
+    "event_id": "2ee26598-b622-4352-92f8-c92f4c97005f",
+    "bed_id": "BED445",
+    "ward": "ICU",
+    "status": "AVAILABLE",
+    "patient_id": "PT91353",
+    "event_timestamp": "2026-06-20T13:36:47.320335"
+  },
+  {
+    "event_id": "1ecd5564-6a0d-4d00-b039-243c65a7c5d7",
+    "bed_id": "BED224",
+    "ward": "Pediatrics",
+    "status": "CLEANING",
+    "patient_id": "PT64920",
+    "event_timestamp": "2026-06-20T13:36:47.320340"
+  },
+  {
+    "event_id": "b9784f69-8f21-412e-ba26-76c1244bb1d6",
+    "bed_id": "BED487",
+    "ward": "Emergency",
+    "status": "OCCUPIED",
+    "patient_id": "PT33552",
+    "event_timestamp": "2026-06-20T13:36:47.320346"
+  },
+  {
+    "event_id": "47d8b732-a3b1-4f86-8bc8-225a3723aca1",
+    "bed_id": "BED234",
+    "ward": "Surgery",
+    "status": "CLEANING",
+    "patient_id": "PT49222",
+    "event_timestamp": "2026-06-20T13:36:47.320352"
+  },
+  {
+    "event_id": "eabd00fc-09bd-490c-8960-644fc916ccf7",
+    "bed_id": "BED467",
+    "ward": "ICU",
+    "status": "OCCUPIED",
+    "patient_id": "PT47326",
+    "event_timestamp": "2026-06-20T13:36:47.320357"
+  },
+  {
+    "event_id": "8bf8d1bd-7f3c-4f1e-a26c-143a4cff5d30",
+    "bed_id": "BED266",
+    "ward": "Pediatrics",
+    "status": "OCCUPIED",
+    "patient_id": "PT77178",
+    "event_timestamp": "2026-06-20T13:36:47.320363"
+  },
+  {
+    "event_id": "fe6b9234-2d3b-46bb-83a5-c5f293e7765c",
+    "bed_id": "BED331",
+    "ward": "Pediatrics",
+    "status": "CLEANING",
+    "patient_id": "PT88878",
+    "event_timestamp": "2026-06-20T13:36:47.320369"
+  },
+  {
+    "event_id": "7a227c7b-38d5-4266-b5fd-a139bf659969",
+    "bed_id": "BED205",
+    "ward": "Pediatrics",
+    "status": "CLEANING",
+    "patient_id": "PT92206",
+    "event_timestamp": "2026-06-20T13:36:47.320375"
+  },
+  {
+    "event_id": "52bcdd14-b8e0-4ef8-98f2-b95ea8c509d2",
+    "bed_id": "BED313",
+    "ward": "Cardiology",
+    "status": "CLEANING",
+    "patient_id": "PT81827",
+    "event_timestamp": "2026-06-20T13:36:47.320381"
+  },
+  {
+    "event_id": "2448faf3-84b6-44ff-b9d2-0337e3da2e59",
+    "bed_id": "BED340",
+    "ward": "ICU",
+    "status": "CLEANING",
+    "patient_id": "PT36224",
+    "event_timestamp": "2026-06-20T13:36:47.320386"
+  },
+  {
+    "event_id": "5666f01a-e709-4472-be10-d61c43d49653",
+    "bed_id": "BED472",
+    "ward": "Pediatrics",
+    "status": "AVAILABLE",
+    "patient_id": "PT93896",
+    "event_timestamp": "2026-06-20T13:36:47.320392"
+  },
+  {
+    "event_id": "be728397-c038-47e1-a57d-ae9a50192057",
+    "bed_id": "BED363",
+    "ward": "Pediatrics",
+    "status": "OCCUPIED",
+    "patient_id": "PT97917",
+    "event_timestamp": "2026-06-20T13:36:47.320398"
+  },
+  {
+    "event_id": "85b1e79b-58b4-45eb-a8e8-6f658546040b",
+    "bed_id": "BED323",
+    "ward": "Oncology",
+    "status": "OCCUPIED",
+    "patient_id": "PT93201",
+    "event_timestamp": "2026-06-20T13:36:47.320403"
+  },
+  {
+    "event_id": "abc81111-ff01-45ef-a02b-d4d9af9af3a7",
+    "bed_id": "BED201",
+    "ward": "Oncology",
+    "status": "OCCUPIED",
+    "patient_id": "PT62407",
+    "event_timestamp": "2026-06-20T13:36:47.320409"
+  },
+  {
+    "event_id": "38f6eb41-38a4-448f-8778-783d182d2dcf",
+    "bed_id": "BED285",
+    "ward": "Oncology",
+    "status": "CLEANING",
+    "patient_id": "PT77776",
+    "event_timestamp": "2026-06-20T13:36:47.320415"
+  },
+  {
+    "event_id": "7c6ff262-1260-4823-aa80-226ddeb53c74",
+    "bed_id": "BED214",
+    "ward": "Cardiology",
+    "status": "AVAILABLE",
+    "patient_id": "PT90916",
+    "event_timestamp": "2026-06-20T13:36:47.320420"
+  },
+  {
+    "event_id": "e8d03aa7-e258-4584-b42a-991430bce030",
+    "bed_id": "BED132",
+    "ward": "Oncology",
+    "status": "CLEANING",
+    "patient_id": "PT80436",
+    "event_timestamp": "2026-06-20T13:36:47.320426"
+  },
+  {
+    "event_id": "b715ada1-f579-402e-a7fe-334e95ad54fa",
+    "bed_id": "BED472",
+    "ward": "ICU",
+    "status": "CLEANING",
+    "patient_id": "PT77760",
+    "event_timestamp": "2026-06-20T13:36:47.320432"
+  },
+  {
+    "event_id": "a1d7a276-d7c0-400b-b781-e05cf138b181",
+    "bed_id": "BED184",
+    "ward": "Pediatrics",
+    "status": "OCCUPIED",
+    "patient_id": "PT87988",
+    "event_timestamp": "2026-06-20T13:36:47.320437"
+  },
+  {
+    "event_id": "ec570e0d-a5ef-4d09-b2d3-6efeec74e7e0",
+    "bed_id": "BED342",
+    "ward": "Pediatrics",
+    "status": "AVAILABLE",
+    "patient_id": "PT27175",
+    "event_timestamp": "2026-06-20T13:36:47.320443"
+  },
+  {
+    "event_id": "856a06f2-abea-44d5-84e9-bc3f079ce6ad",
+    "bed_id": "BED423",
+    "ward": "Pediatrics",
+    "status": "AVAILABLE",
+    "patient_id": "PT51889",
+    "event_timestamp": "2026-06-20T13:36:47.320449"
+  },
+  {
+    "event_id": "06517316-4b79-4cf3-bbf4-1c4fe23f5b9c",
+    "bed_id": "BED218",
+    "ward": "ICU",
+    "status": "OCCUPIED",
+    "patient_id": "PT13983",
+    "event_timestamp": "2026-06-20T13:36:47.320454"
+  },
+  {
+    "event_id": "e9718651-c385-43ef-9240-1f9d400542cf",
+    "bed_id": "BED321",
+    "ward": "ICU",
+    "status": "CLEANING",
+    "patient_id": "PT16193",
+    "event_timestamp": "2026-06-20T13:36:47.320460"
+  },
+  {
+    "event_id": "e4ad498c-80b5-4a31-8c11-8b66ac72f615",
+    "bed_id": "BED286",
+    "ward": "ICU",
+    "status": "CLEANING",
+    "patient_id": "PT77818",
+    "event_timestamp": "2026-06-20T13:36:47.320466"
+  },
+  {
+    "event_id": "dd8a975e-eeba-4c61-a665-0440aa6959a3",
+    "bed_id": "BED348",
+    "ward": "Emergency",
+    "status": "OCCUPIED",
+    "patient_id": "PT47829",
+    "event_timestamp": "2026-06-20T13:36:47.320471"
+  },
+  {
+    "event_id": "9c177637-b8cd-4126-bca2-7bd6f01edc83",
+    "bed_id": "BED283",
+    "ward": "Pediatrics",
+    "status": "CLEANING",
+    "patient_id": "PT48814",
+    "event_timestamp": "2026-06-20T13:36:47.320477"
+  },
+  {
+    "event_id": "de90320c-4f5a-49a8-95e6-50b808bc87bf",
+    "bed_id": "BED299",
+    "ward": "Cardiology",
+    "status": "CLEANING",
+    "patient_id": "PT60791",
+    "event_timestamp": "2026-06-20T13:36:47.320482"
+  },
+  {
+    "event_id": "75293966-cb9f-494d-bad9-645baa190538",
+    "bed_id": "BED378",
+    "ward": "Emergency",
+    "status": "OCCUPIED",
+    "patient_id": "PT96111",
+    "event_timestamp": "2026-06-20T13:36:47.320488"
+  },
+  {
+    "event_id": "213d1840-4974-485b-82ed-50a83a5e94c1",
+    "bed_id": "BED349",
+    "ward": "Pediatrics",
+    "status": "AVAILABLE",
+    "patient_id": "PT78332",
+    "event_timestamp": "2026-06-20T13:36:47.320493"
+  },
+  {
+    "event_id": "66c0d1e8-103f-47a4-a9e2-42ad2e0264d5",
+    "bed_id": "BED183",
+    "ward": "Emergency",
+    "status": "AVAILABLE",
+    "patient_id": "PT19463",
+    "event_timestamp": "2026-06-20T13:36:47.320499"
+  },
+  {
+    "event_id": "f3b19ce8-2ba5-4a9b-90e9-ec89fed3fd28",
+    "bed_id": "BED108",
+    "ward": "Cardiology",
+    "status": "AVAILABLE",
+    "patient_id": "PT90559",
+    "event_timestamp": "2026-06-20T13:36:47.320505"
+  },
+  {
+    "event_id": "37ddcde3-506a-48f3-85ea-02fa6cc48dbc",
+    "bed_id": "BED136",
+    "ward": "Cardiology",
+    "status": "AVAILABLE",
+    "patient_id": "PT59692",
+    "event_timestamp": "2026-06-20T13:36:47.320511"
+  },
+  {
+    "event_id": "ea5eb484-22d3-46af-ba9f-c35ff0a8bc0a",
+    "bed_id": "BED437",
+    "ward": "Pediatrics",
+    "status": "OCCUPIED",
+    "patient_id": "PT54601",
+    "event_timestamp": "2026-06-20T13:36:47.320516"
+  },
+  {
+    "event_id": "5769f233-cd9c-46cb-bb1c-4d05d5abd717",
+    "bed_id": "BED278",
+    "ward": "Oncology",
+    "status": "CLEANING",
+    "patient_id": "PT90700",
+    "event_timestamp": "2026-06-20T13:36:47.320522"
+  },
+  {
+    "event_id": "51c3e68b-3f6a-4dff-b9de-411d4fe8d57a",
+    "bed_id": "BED134",
+    "ward": "Pediatrics",
+    "status": "CLEANING",
+    "patient_id": "PT51233",
+    "event_timestamp": "2026-06-20T13:36:47.320528"
+  },
+  {
+    "event_id": "c6ec3265-4c2b-4ed0-ab6b-1f789b0b5dc2",
+    "bed_id": "BED178",
+    "ward": "ICU",
+    "status": "AVAILABLE",
+    "patient_id": "PT42020",
+    "event_timestamp": "2026-06-20T13:36:47.320533"
+  },
+  {
+    "event_id": "199a6a6a-15fe-42a5-aa85-a94e521554c3",
+    "bed_id": "BED344",
+    "ward": "Surgery",
+    "status": "CLEANING",
+    "patient_id": "PT63829",
+    "event_timestamp": "2026-06-20T13:36:47.320539"
+  },
+  {
+    "event_id": "62979d17-1665-4c3b-a6de-633796e0ee28",
+    "bed_id": "BED334",
+    "ward": "Surgery",
+    "status": "CLEANING",
+    "patient_id": "PT42713",
+    "event_timestamp": "2026-06-20T13:36:47.320545"
+  },
+  {
+    "event_id": "a64ee2d3-1f50-4894-82f0-2c5f8e6cdf4b",
+    "bed_id": "BED124",
+    "ward": "Oncology",
+    "status": "OCCUPIED",
+    "patient_id": "PT80805",
+    "event_timestamp": "2026-06-20T13:36:47.320550"
+  },
+  {
+    "event_id": "07cf7e5b-a601-40be-89fb-92b682f64676",
+    "bed_id": "BED474",
+    "ward": "Cardiology",
+    "status": "AVAILABLE",
+    "patient_id": "PT93642",
+    "event_timestamp": "2026-06-20T13:36:47.320556"
+  },
+  {
+    "event_id": "2093b717-2c84-48ae-a205-8a40a07c142e",
+    "bed_id": "BED103",
+    "ward": "Cardiology",
+    "status": "CLEANING",
+    "patient_id": "PT57208",
+    "event_timestamp": "2026-06-20T13:36:47.320562"
+  },
+  {
+    "event_id": "504bcab6-dc6d-46d5-b479-3d961289c3c3",
+    "bed_id": "BED437",
+    "ward": "Cardiology",
+    "status": "CLEANING",
+    "patient_id": "PT55996",
+    "event_timestamp": "2026-06-20T13:36:47.320567"
+  },
+  {
+    "event_id": "5510a565-fbfe-493d-8d30-0ac14462f760",
+    "bed_id": "BED157",
+    "ward": "Pediatrics",
+    "status": "OCCUPIED",
+    "patient_id": "PT16129",
+    "event_timestamp": "2026-06-20T13:36:47.320573"
+  },
+  {
+    "event_id": "ae0e6523-0e44-4789-8dbd-cdb55835c0a0",
+    "bed_id": "BED292",
+    "ward": "ICU",
+    "status": "CLEANING",
+    "patient_id": "PT58135",
+    "event_timestamp": "2026-06-20T13:36:47.320578"
+  },
+  {
+    "event_id": "9482c4be-5b12-44f6-a3e5-caa383f2332b",
+    "bed_id": "BED167",
+    "ward": "Pediatrics",
+    "status": "AVAILABLE",
+    "patient_id": "PT99114",
+    "event_timestamp": "2026-06-20T13:36:47.320584"
+  },
+  {
+    "event_id": "5d445c49-9128-432c-b2bf-7609a2a5985d",
+    "bed_id": "BED320",
+    "ward": "Surgery",
+    "status": "AVAILABLE",
+    "patient_id": "PT75985",
+    "event_timestamp": "2026-06-20T13:36:47.320590"
+  },
+  {
+    "event_id": "02e1ded2-5ed3-4d19-b134-b18ef45deb85",
+    "bed_id": "BED302",
+    "ward": "Cardiology",
+    "status": "CLEANING",
+    "patient_id": "PT21851",
+    "event_timestamp": "2026-06-20T13:36:47.320595"
+  },
+  {
+    "event_id": "25486165-5b25-4616-b146-6f7634878a16",
+    "bed_id": "BED272",
+    "ward": "Surgery",
+    "status": "CLEANING",
+    "patient_id": "PT97297",
+    "event_timestamp": "2026-06-20T13:36:47.320601"
+  },
+  {
+    "event_id": "117efeaa-6b6a-4922-8d40-ca50db17bfbb",
+    "bed_id": "BED104",
+    "ward": "Pediatrics",
+    "status": "OCCUPIED",
+    "patient_id": "PT70790",
+    "event_timestamp": "2026-06-20T13:36:47.320607"
+  },
+  {
+    "event_id": "7a99d19d-cbf2-4895-acc3-0c395f1828d6",
+    "bed_id": "BED489",
+    "ward": "ICU",
+    "status": "OCCUPIED",
+    "patient_id": "PT81779",
+    "event_timestamp": "2026-06-20T13:36:47.320612"
+  },
+  {
+    "event_id": "16489673-3041-4332-81ed-2ad7cd839e64",
+    "bed_id": "BED193",
+    "ward": "Cardiology",
+    "status": "AVAILABLE",
+    "patient_id": "PT30756",
+    "event_timestamp": "2026-06-20T13:36:47.320618"
+  },
+  {
+    "event_id": "e14995bf-32f3-49a9-ac37-fc4ea05b895b",
+    "bed_id": "BED491",
+    "ward": "ICU",
+    "status": "AVAILABLE",
+    "patient_id": "PT75745",
+    "event_timestamp": "2026-06-20T13:36:47.320672"
+  },
+  {
+    "event_id": "dec93692-77d1-4c35-98d9-0f02b7dd26a9",
+    "bed_id": "BED213",
+    "ward": "ICU",
+    "status": "CLEANING",
+    "patient_id": "PT96748",
+    "event_timestamp": "2026-06-20T13:36:47.320679"
+  },
+  {
+    "event_id": "2bc3ff7a-9814-493a-b5d7-5c266290178e",
+    "bed_id": "BED106",
+    "ward": "ICU",
+    "status": "AVAILABLE",
+    "patient_id": "PT86428",
+    "event_timestamp": "2026-06-20T13:36:47.320684"
+  },
+  {
+    "event_id": "5811f658-28dc-4367-ad9b-d81370e46bc2",
+    "bed_id": "BED464",
+    "ward": "Emergency",
+    "status": "AVAILABLE",
+    "patient_id": "PT59718",
+    "event_timestamp": "2026-06-20T13:36:47.320690"
+  },
+  {
+    "event_id": "dd7b416b-019f-49de-a767-be28cdfafe6e",
+    "bed_id": "BED375",
+    "ward": "ICU",
+    "status": "CLEANING",
+    "patient_id": "PT80839",
+    "event_timestamp": "2026-06-20T13:36:47.320696"
+  },
+  {
+    "event_id": "15a9d450-fb69-47be-89ae-3da6ec968d45",
+    "bed_id": "BED259",
+    "ward": "Emergency",
+    "status": "CLEANING",
+    "patient_id": "PT46575",
+    "event_timestamp": "2026-06-20T13:36:47.320702"
+  },
+  {
+    "event_id": "6ec48416-bd5f-4d84-b052-d0f61517c97a",
+    "bed_id": "BED495",
+    "ward": "Emergency",
+    "status": "CLEANING",
+    "patient_id": "PT48717",
+    "event_timestamp": "2026-06-20T13:36:47.320707"
+  },
+  {
+    "event_id": "f0dd1881-2872-47c6-939f-847261522073",
+    "bed_id": "BED470",
+    "ward": "Emergency",
+    "status": "OCCUPIED",
+    "patient_id": "PT53639",
+    "event_timestamp": "2026-06-20T13:36:47.320713"
+  },
+  {
+    "event_id": "69ba3813-65e3-48b9-b2aa-dea1c5040bd6",
+    "bed_id": "BED215",
+    "ward": "Surgery",
+    "status": "CLEANING",
+    "patient_id": "PT15090",
+    "event_timestamp": "2026-06-20T13:36:47.320719"
+  },
+  {
+    "event_id": "3e883cee-396a-4a5e-b8a6-e5ac861ada77",
+    "bed_id": "BED309",
+    "ward": "Surgery",
+    "status": "OCCUPIED",
+    "patient_id": "PT85497",
+    "event_timestamp": "2026-06-20T13:36:47.320725"
+  },
+  {
+    "event_id": "63cd88c4-e561-4af7-adfa-950dd6d8abe1",
+    "bed_id": "BED410",
+    "ward": "Oncology",
+    "status": "AVAILABLE",
+    "patient_id": "PT75332",
+    "event_timestamp": "2026-06-20T13:36:47.320730"
+  },
+  {
+    "event_id": "52c5b6fd-c466-4328-9f98-68485dbaaf3a",
+    "bed_id": "BED168",
+    "ward": "Pediatrics",
+    "status": "CLEANING",
+    "patient_id": "PT62500",
+    "event_timestamp": "2026-06-20T13:36:47.320736"
+  },
+  {
+    "event_id": "9c48b0b5-2c7b-43fd-832c-b9a0fb91f43a",
+    "bed_id": "BED242",
+    "ward": "ICU",
+    "status": "AVAILABLE",
+    "patient_id": "PT52786",
+    "event_timestamp": "2026-06-20T13:36:47.320742"
+  },
+  {
+    "event_id": "95046938-212c-494e-b6a8-71b20c5d08fe",
+    "bed_id": "BED366",
+    "ward": "Oncology",
+    "status": "OCCUPIED",
+    "patient_id": "PT10545",
+    "event_timestamp": "2026-06-20T13:36:47.320747"
+  },
+  {
+    "event_id": "3aa78853-0a85-4c73-9773-9f31e3ceb0db",
+    "bed_id": "BED460",
+    "ward": "ICU",
+    "status": "AVAILABLE",
+    "patient_id": "PT13776",
+    "event_timestamp": "2026-06-20T13:36:47.320752"
+  },
+  {
+    "event_id": "a78d4a34-f4ef-42d0-aea9-d28a0ca45b7c",
+    "bed_id": "BED147",
+    "ward": "Oncology",
+    "status": "OCCUPIED",
+    "patient_id": "PT62627",
+    "event_timestamp": "2026-06-20T13:36:47.320758"
+  },
+  {
+    "event_id": "1114b48b-6645-4c9c-9c97-683f2ee45d2d",
+    "bed_id": "BED195",
+    "ward": "Emergency",
+    "status": "CLEANING",
+    "patient_id": "PT95877",
+    "event_timestamp": "2026-06-20T13:36:47.320763"
+  },
+  {
+    "event_id": "20c11fc4-6e00-401c-8f3e-1098eb05b093",
+    "bed_id": "BED337",
+    "ward": "Oncology",
+    "status": "OCCUPIED",
+    "patient_id": "PT11798",
+    "event_timestamp": "2026-06-20T13:36:47.320768"
+  },
+  {
+    "event_id": "75af0ce1-2c38-4818-8700-43563f56c409",
+    "bed_id": "BED258",
+    "ward": "Oncology",
+    "status": "OCCUPIED",
+    "patient_id": "PT42661",
+    "event_timestamp": "2026-06-20T13:36:47.320773"
+  },
+  {
+    "event_id": "4969eace-3cb8-4690-b366-be118cca2a71",
+    "bed_id": "BED145",
+    "ward": "Oncology",
+    "status": "OCCUPIED",
+    "patient_id": "PT14166",
+    "event_timestamp": "2026-06-20T13:36:47.320778"
+  },
+  {
+    "event_id": "e8e29dfb-9158-4fae-9809-76db78bcb884",
+    "bed_id": "BED488",
+    "ward": "Emergency",
+    "status": "AVAILABLE",
+    "patient_id": "PT54011",
+    "event_timestamp": "2026-06-20T13:36:47.320784"
+  },
+  {
+    "event_id": "30a5def3-11d8-4118-9448-241ba1df9bee",
+    "bed_id": "BED472",
+    "ward": "Cardiology",
+    "status": "CLEANING",
+    "patient_id": "PT64268",
+    "event_timestamp": "2026-06-20T13:36:47.320790"
+  },
+  {
+    "event_id": "b9299967-1c4e-4965-928f-83e5fb9feb51",
+    "bed_id": "BED283",
+    "ward": "Cardiology",
+    "status": "OCCUPIED",
+    "patient_id": "PT64550",
+    "event_timestamp": "2026-06-20T13:36:47.320796"
+  },
+  {
+    "event_id": "c8653078-f02b-4717-bbfe-731023c50582",
+    "bed_id": "BED265",
+    "ward": "Oncology",
+    "status": "CLEANING",
+    "patient_id": "PT12907",
+    "event_timestamp": "2026-06-20T13:36:47.320801"
+  },
+  {
+    "event_id": "176b8247-319e-4ebc-8dbd-2b0a7b9ff424",
+    "bed_id": "BED365",
+    "ward": "Emergency",
+    "status": "AVAILABLE",
+    "patient_id": "PT41715",
+    "event_timestamp": "2026-06-20T13:36:47.320807"
+  },
+  {
+    "event_id": "ba9aa0eb-cdf9-43c1-98a7-4dfb26954786",
+    "bed_id": "BED118",
+    "ward": "Surgery",
+    "status": "OCCUPIED",
+    "patient_id": "PT46733",
+    "event_timestamp": "2026-06-20T13:36:47.320812"
+  },
+  {
+    "event_id": "ceda9fb6-0a1c-436b-a19c-5e83b1f2a568",
+    "bed_id": "BED402",
+    "ward": "Oncology",
+    "status": "AVAILABLE",
+    "patient_id": "PT26763",
+    "event_timestamp": "2026-06-20T13:36:47.320817"
+  },
+  {
+    "event_id": "20964d9c-6803-4d13-8984-ba8dfce68a8f",
+    "bed_id": "BED220",
+    "ward": "ICU",
+    "status": "CLEANING",
+    "patient_id": "PT35187",
+    "event_timestamp": "2026-06-20T13:36:47.320822"
+  },
+  {
+    "event_id": "9ec70b97-b522-4267-81df-ee3b988bcb34",
+    "bed_id": "BED468",
+    "ward": "Pediatrics",
+    "status": "CLEANING",
+    "patient_id": "PT38039",
+    "event_timestamp": "2026-06-20T13:36:47.320827"
+  },
+  {
+    "event_id": "44a16cc9-f22e-4e22-80d6-91d2daee8afe",
+    "bed_id": "BED461",
+    "ward": "Pediatrics",
+    "status": "CLEANING",
+    "patient_id": "PT27889",
+    "event_timestamp": "2026-06-20T13:36:47.320833"
+  },
+  {
+    "event_id": "c144ac76-a8a4-432a-8de8-023ed8edc1eb",
+    "bed_id": "BED311",
+    "ward": "Oncology",
+    "status": "OCCUPIED",
+    "patient_id": "PT38501",
+    "event_timestamp": "2026-06-20T13:36:47.320838"
+  },
+  {
+    "event_id": "79b7d566-ebfe-487e-8aeb-10cda44046ea",
+    "bed_id": "BED152",
+    "ward": "Surgery",
+    "status": "AVAILABLE",
+    "patient_id": "PT15638",
+    "event_timestamp": "2026-06-20T13:36:47.320843"
+  },
+  {
+    "event_id": "f8bff73b-8397-46e6-abc9-4d15128acea3",
+    "bed_id": "BED275",
+    "ward": "Pediatrics",
+    "status": "AVAILABLE",
+    "patient_id": "PT35380",
+    "event_timestamp": "2026-06-20T13:36:47.320848"
+  },
+  {
+    "event_id": "c9879317-ce0a-4476-9288-b4b189b2139f",
+    "bed_id": "BED109",
+    "ward": "Cardiology",
+    "status": "OCCUPIED",
+    "patient_id": "PT68740",
+    "event_timestamp": "2026-06-20T13:36:47.320853"
+  },
+  {
+    "event_id": "73174293-9ded-4150-b479-e3f49987318b",
+    "bed_id": "BED100",
+    "ward": "ICU",
+    "status": "AVAILABLE",
+    "patient_id": "PT31053",
+    "event_timestamp": "2026-06-20T13:36:47.320859"
+  },
+  {
+    "event_id": "590245e7-62bf-423c-aa21-33d35759c711",
+    "bed_id": "BED100",
+    "ward": "ICU",
+    "status": "AVAILABLE",
+    "patient_id": "PT21912",
+    "event_timestamp": "2026-06-20T13:36:47.320864"
+  }
+]
