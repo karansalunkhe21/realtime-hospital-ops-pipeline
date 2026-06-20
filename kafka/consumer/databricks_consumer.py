@@ -27,7 +27,7 @@ CONSUMER_CONFIG = {
 # ── Databricks SQL warehouse ID ─────────────────────────────
 # In Community Edition, use the built-in SQL warehouse.
 # Find it at: SQL → SQL Warehouses → copy the ID
-SQL_WAREHOUSE_ID = "your_warehouse_id"   # fill this in
+SQL_WAREHOUSE_ID = "0b01e265b7f82e12"   # fill this in
 
 
 def insert_to_databricks(client, topic: str, record: dict):
